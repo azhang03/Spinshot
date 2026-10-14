@@ -1,4 +1,4 @@
-# CSCI 426 — Week 6 Prototype
+# CSCI 426 — Final Project (Expansion of Week 6 Prototype)
 
 A 2D top-down arena shooter built in Unity for CSCI 426 Game Prototyping.
 
